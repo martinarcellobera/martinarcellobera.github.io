@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Laboratorio de Robótica - Oficina 2104</p>
-    <p>Pabellón Cero + Infinito, Ciudad Universitaria</p>
-    <p>Ciudad Autónoma de Buenos Aires, Argentina</p>
+    <p>Laboratorio de Robótica - Oficina 2104.</p>
+    <p>Pabellón Cero + Infinito, Ciudad Universitaria.</p>
+    <p>Ciudad Autónoma de Buenos Aires, Argentina.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
