@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://martinarcellobera.github.io/al-folio/sitemap.xml
+Sitemap: https://martinarcellobera.github.io/sitemap.xml
