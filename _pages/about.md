@@ -27,3 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am a PhD student in Computer Science at the Robotics Laboratory of the University of Buenos Aires. My interests include Active SLAM, reinforcement learning, and mathematical modeling.
