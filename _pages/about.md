@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> Contact: marcellobera@dc.uba.ar
+subtitle: <a href='#'> Contact: marcellobera[at]dc[dot]uba[dot]ar
 
 profile:
   align: right
