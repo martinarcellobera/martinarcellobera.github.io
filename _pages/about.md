@@ -7,7 +7,7 @@ subtitle: <a href='#'> marcellobera[at]dc[dot]uba[dot]ar
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: yes # crops the image to make it circular
   more_info: >
     <p>Laboratorio de Robótica - Oficina 2104.</p>
     <p>Pabellón Cero + Infinito, Ciudad Universitaria.</p>
