@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Laboratorio de Robótica - Oficina 2104.</p>
+    <p>Laboratorio de Robótica - Oficina 2114.</p>
     <p>Pabellón Cero + Infinito, Ciudad Universitaria.</p>
     <p>Ciudad Autónoma de Buenos Aires, Argentina.</p>
 
