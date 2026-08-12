@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year PhD student in Computer Science at the Robotics Laboratory of the University of Buenos Aires. My interests include Active SLAM, computational geometry/topology, and reinforcement learning.
+I am a first-year PhD student in Computer Science at the Robotics Laboratory of the University of Buenos Aires. My research interests include Active SLAM, computational geometry/topology, and reinforcement learning.
 
 I am also interested in game theory. In fact, in a past life, I was a pretty decent professional poker player.
